@@ -1,5 +1,7 @@
 # CMDOP Agent
 
+![CMDOP Agent](https://raw.githubusercontent.com/markolofsen/assets/main/libs/cmdop_agent.webp)
+
 **Secure remote terminal access for your machines.**
 
 Control your servers from anywhere with real-time sessions, file operations, and AI-powered automation.
