@@ -1,6 +1,6 @@
 # CMDOP Agent
 
-![CMDOP Agent](https://raw.githubusercontent.com/markolofsen/assets/main/libs/cmdop_agent.webp)
+![CMDOP Agent](https://raw.githubusercontent.com/markolofsen/assets/main/libs/cmdop/cmdop-agent.webp)
 
 **Secure remote terminal access for your machines.**
 
