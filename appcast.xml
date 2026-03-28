@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CMDOP Desktop Updates</title>
+    <link>https://cmdop.com</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version dev</title>
+      <sparkle:version>dev</sparkle:version>
+      <sparkle:shortVersionString>dev</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <description><![CDATA[New version dev]]></description>
+      <pubDate>Sat, 28 Mar 2026 14:48:24 +0800</pubDate>
+      <enclosure
+        url="https://github.com/commandoperator/cmdop-agent/releases/download/vdev/CMDOP-dev-macos.app.zip"
+        sparkle:edSignature="PLACEHOLDER_SIGN_WITH_SPARKLE_TOOLS"
+        length="18830091"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
