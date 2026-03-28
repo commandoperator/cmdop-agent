@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version dev</title>
-      <sparkle:version>dev</sparkle:version>
-      <sparkle:shortVersionString>dev</sparkle:shortVersionString>
+      <title>Version 1.1.37</title>
+      <sparkle:version>1.1.37</sparkle:version>
+      <sparkle:shortVersionString>1.1.37</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-      <description><![CDATA[New version dev]]></description>
-      <pubDate>Sat, 28 Mar 2026 14:48:24 +0800</pubDate>
+      <description><![CDATA[<h2>What's New in 1.1.37</h2><ul><li>Auto-update via Sparkle framework</li><li>Intent router for token optimization</li><li>Trigger system with auto-disable</li><li>CLI UX: semantic exit codes</li></ul>]]></description>
+      <pubDate>Fri, 28 Mar 2026 07:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/commandoperator/cmdop-agent/releases/download/vdev/CMDOP-dev-macos.app.zip"
-        sparkle:edSignature="PLACEHOLDER_SIGN_WITH_SPARKLE_TOOLS"
-        length="18830091"
+        url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.37/CMDOP-1.1.37-macos.app.zip"
+        sparkle:edSignature="bDvZO/aEp5UfdfjKASGuyhN4WHWs6SDdI187bQRsYLxHeOVP5GDtwLmrIePBRlMSqZr58c/zZSawWRKKpUrODg=="
+        length="18830090"
         type="application/octet-stream"
       />
     </item>
