@@ -6,12 +6,12 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.38</title>
-      <sparkle:version>1.1.38</sparkle:version>
-      <sparkle:shortVersionString>1.1.38</sparkle:shortVersionString>
+      <title>Version 1.1.39</title>
+      <sparkle:version>1.1.39</sparkle:version>
+      <sparkle:shortVersionString>1.1.39</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-      <description><![CDATA[New version 1.1.38]]></description>
-      <pubDate>Sat, 28 Mar 2026 15:23:15 +0800</pubDate>
+      <description><![CDATA[<h2>What's New in 1.1.39</h2><ul><li>Browser removed from built-in tools (now skill-based)</li><li>Token optimization improvements</li></ul>]]></description>
+      <pubDate>Sat, 28 Mar 2026 07:30:00 +0000</pubDate>
       <enclosure
         url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.38/CMDOP-1.1.38-macos.app.zip"
         sparkle:edSignature="mH5d4UvHkkM0iBW/DFoKVHyTMusPNReh5z+L2uJ170WqdxIY1IR1CB12qWRUtQyO8/9NZBRTfz0wJrQ81UkaDQ=="
