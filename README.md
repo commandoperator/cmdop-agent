@@ -22,6 +22,14 @@ curl -sSL https://cmdop.com/install.sh | bash
 
 Download [CMDOP-macos.dmg](https://github.com/commandoperator/cmdop-agent/releases/latest/download/CMDOP-macos.dmg) - includes system tray with quick access.
 
+The DMG also ships a `cmdop` binary inside the app bundle. To use it from any terminal (optional):
+
+```bash
+/Applications/CMDOP.app/Contents/MacOS/cmdop setup
+```
+
+Follow the printed PATH hint, open a new terminal, then run `cmdop doctor` to verify. Same as `cmdop doctor --install-cli`.
+
 ### Manual Download
 
 **Linux x64:**
