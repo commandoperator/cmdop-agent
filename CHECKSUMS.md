@@ -1,13 +1,13 @@
 # Checksums
 
-**Version:** v1.1.75
-**Commit:** 290474465
-**Built:** 2026-04-18T07:00:09Z
+**Version:** v1.1.76
+**Commit:** 791e2ed19
+**Built:** 2026-04-18T07:14:03Z
 
 ## Verify Download
 
 ```bash
-curl -sSL https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.75/SHA256SUMS -o SHA256SUMS
+curl -sSL https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.76/SHA256SUMS -o SHA256SUMS
 shasum -a 256 -c SHA256SUMS --ignore-missing
 ```
 
@@ -15,5 +15,5 @@ shasum -a 256 -c SHA256SUMS --ignore-missing
 
 | Platform | File | SHA256 |
 |----------|------|--------|
-| linux-arm64 | `cmdop-linux-arm64` | `10d0d8fd93484f4d88c746d23666a2fb2cd2b3a6007274daaab2bcf609b20392` |
-| linux-x64 | `cmdop-linux-x64` | `7cbaf7d310beec592aac70a816c0f16942d8e34d52a73096a2f3c806bec58585` |
+| linux-arm64 | `cmdop-linux-arm64` | `806b2834896bcbdee84c8e2df4fda18ab9d1c925b2cf16c96f937774ea4db1c5` |
+| linux-x64 | `cmdop-linux-x64` | `47131385f58df0b89d1e7dab6beb46ec2ff97178ade07264c384380be0d2a828` |
