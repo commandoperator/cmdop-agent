@@ -11,11 +11,11 @@
       <sparkle:shortVersionString>1.1.89</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <description><![CDATA[New version 1.1.89]]></description>
-      <pubDate>Sun, 19 Apr 2026 23:29:39 +0800</pubDate>
+      <pubDate>Mon, 20 Apr 2026 00:05:22 +0800</pubDate>
       <enclosure
         url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.89/CMDOP-1.1.89-macos.app.zip"
-        sparkle:edSignature="jjmapaFSS2x4woRNfAqrVfLTaMjgQBquP2RPF4ZuN6z2HtT2HXkdWK9h7WVOJTjZ+fyfzfAyIV1slGgFTLrQBg=="
-        length="23902308"
+        sparkle:edSignature="z7v2U8nwAYYHK+aRIuScJjY2TugTrSk+n0AAvS5WT6Qif0vUHzFuccAkAtVAdFYozZSFpx6y0ltamWAg1eNqDg=="
+        length="23902310"
         type="application/octet-stream"
       />
     </item>
