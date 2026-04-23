@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.93</title>
-      <sparkle:version>1.1.93</sparkle:version>
-      <sparkle:shortVersionString>1.1.93</sparkle:shortVersionString>
+      <title>Version 1.1.94</title>
+      <sparkle:version>1.1.94</sparkle:version>
+      <sparkle:shortVersionString>1.1.94</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-      <description><![CDATA[New version 1.1.93]]></description>
-      <pubDate>Tue, 21 Apr 2026 15:31:58 +0800</pubDate>
+      <description><![CDATA[New version 1.1.94]]></description>
+      <pubDate>Thu, 23 Apr 2026 12:34:39 +0800</pubDate>
       <enclosure
-        url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.93/CMDOP-1.1.93-macos.app.zip"
-        sparkle:edSignature="hwX8naEq54esaedZLN6JfWMwEwQiHDuyqNsQsxIa7H3QL0WwEeK55t7Bu0NCX0VDxx0mRNo5FaiD1QIMM18uAQ=="
-        length="27008177"
+        url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.94/CMDOP-1.1.94-macos.app.zip"
+        sparkle:edSignature="FZ7lFXyCRfthD6F1KiynCRCzX+C8nT/5yZSvosoiRr6ghZjy5sd4reGc8plRGglydz5fxbazWDUJzcMoN2hNBg=="
+        length="27078371"
         type="application/octet-stream"
       />
     </item>
