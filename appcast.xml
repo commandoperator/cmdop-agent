@@ -6,17 +6,17 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.97</title>
-      <sparkle:version>1.1.97</sparkle:version>
-      <sparkle:shortVersionString>1.1.97</sparkle:shortVersionString>
+      <title>Version 1.1.98</title>
+      <sparkle:version>1.1.98</sparkle:version>
+      <sparkle:shortVersionString>1.1.98</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>v1.1.97</h2>
+      <description><![CDATA[<h2>v1.1.98</h2>
 <p>Maintenance release: stability and performance updates.</p>]]></description>
-      <pubDate>Sat, 25 Apr 2026 19:47:57 +0800</pubDate>
+      <pubDate>Sun, 26 Apr 2026 01:19:37 +0800</pubDate>
       <enclosure
-        url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.97/CMDOP-1.1.97-macos.app.zip"
-        sparkle:edSignature="ddLolu6ReI1gg+xYiSqqWFFic5DKNjlrIMeodRCAUaPG9Ykr9AygtaEBB3QLVpdVAlfHQoaymkHETlskI4CnCQ=="
-        length="28823363"
+        url="https://github.com/commandoperator/cmdop-agent/releases/download/v1.1.98/CMDOP-1.1.98-macos.app.zip"
+        sparkle:edSignature="NFUbbJmynYeexLQkQytA2wtbC7iVo/vsPdxCrtpJGq9ZQDUSAHVxwUEASId0i1B+MzpIWG+pkfLX1eQQonD4DQ=="
+        length="28896099"
         type="application/octet-stream"
       />
     </item>
