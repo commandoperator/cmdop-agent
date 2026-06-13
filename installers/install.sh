@@ -3,11 +3,17 @@
 # cmdop CLI Installer
 # Downloads and installs the cmdop command-line tool
 #
-# Usage:
-#   curl -sSL https://raw.githubusercontent.com/commandoperator/cmdop-agent/main/installers/install.sh | bash
+# Canonical entry (install.cmdop.com PROXIES this script body — always latest):
+#   curl -fsSL https://install.cmdop.com | sh
 #
-# Or with custom installation directory:
-#   curl -sSL https://raw.githubusercontent.com/commandoperator/cmdop-agent/main/installers/install.sh | bash -s -- --prefix=$HOME/.local/bin
+# Direct GitHub fallback (same script, raw mirror):
+#   curl -fsSL https://raw.githubusercontent.com/commandoperator/cmdop-agent/main/installers/install.sh | sh
+#
+# Custom installation directory:
+#   curl -fsSL https://install.cmdop.com | sh -s -- --prefix=$HOME/.local/bin
+#
+# Binaries download from GitHub Releases (the storage of record) of
+# commandoperator/cmdop-agent; install.cmdop.com/desktop/* mirrors them.
 
 set -e
 
@@ -126,7 +132,7 @@ if [ ! -w "$TMP_DIR" ]; then
     echo ""
     echo "💡 Try running from your home directory:"
     echo "   cd ~"
-    echo "   curl -sSL $DOWNLOAD_URL | bash"
+    echo "   curl -fsSL https://install.cmdop.com | sh"
     exit 1
 fi
 
@@ -221,7 +227,7 @@ if [ "$NEED_SUDO" = true ]; then
         echo -e "${RED}❌ Installation requires sudo, but sudo is not available${NC}"
         echo ""
         echo "💡 Try installing to a user directory:"
-        echo "   curl -L https://api.cmdop.com/media/cmdop_cli/install.sh | sh -s -- --prefix=\$HOME/.local/bin"
+        echo "   curl -fsSL https://install.cmdop.com | sh -s -- --prefix=\$HOME/.local/bin"
         exit 1
     fi
 else
@@ -252,7 +258,7 @@ servers:
     host: localhost
     port: 50051
     http_host: localhost
-    http_port: 8000
+    http_port: 8011
     use_tls: false
   prod:
     host: grpc.cmdop.com
